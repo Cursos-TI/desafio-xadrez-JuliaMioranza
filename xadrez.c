@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Nível novato.
+// Nível novato
 
 int main (){
 
